@@ -36,6 +36,6 @@
   position: absolute;
   animation: blink 1.25s ease-in-out infinite;
   /* background-image: url(''); */
-  /* background-image: url('../public/favicon.png'); */
+  background-image: url('../public/favicon.png');
   background-size: cover;
 }
